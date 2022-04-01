@@ -9,4 +9,3 @@ function factorialize(num){
 
 fact = factorialize(5);
 console.log(fact);
-print(fact)
